@@ -156,7 +156,7 @@ const showSlides=(n) => {
 
 <Box alignSelf="center" textAlign="center" fontWeight="extrabold" lineHeight="1.18182" letterSpacing="-0.02em" color="#ffff" fontSize=" 2.55rem" mb="20">
   <Text>
-  It's Important
+  Its Important
   </Text>
   <Text>
   the World understand
