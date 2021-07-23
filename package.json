@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^1.0.14",
+    "@chakra-ui/react": "^1.6.4",
+    "@emotion/react": "11",
+    "@emotion/styled": "11",
+    "@react-three/drei": "^7.2.1",
+    "@react-three/fiber": "^7.0.5",
+    "framer-motion": "4",
+    "fs": "^0.0.1-security",
     "next": "11.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "rive-react": "^0.0.11",
+    "three": "^0.130.1"
   },
   "devDependencies": {
     "eslint": "7.29.0",
